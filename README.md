@@ -2,35 +2,49 @@
 
 This repository is a curated collection of resources, references, tools, datasets, papers, and guides related to open-world design and procedural generation. It focuses on real-world urban logic, environment generation, infrastructure systems, and design methodologies used in creating large-scale believable virtual worlds.
 
-This is mostly a repository for personal reference and research. Will be updated as I explore, study and research open world generation. 
-
-Links for specific items will be added soon as well. 
+This is mostly a repository for personal reference and research. Will be updated as I explore, study and research open world generation.
 
 ---
 
 ## Table of Contents
 
+- [Biomes](#biomes)
+- [Terrain, Geography & Natural Features](#terrain-geography--natural-features)
 - [Urban Planning](#urban-planning)
 - [Zoning & Land Use](#zoning--land-use)
-- [Transportation & Transit Networks](#transportation--transit-networks)
 - [Architecture & Building Typologies](#architecture--building-typologies)
 - [Districts & Neighborhoods](#districts--neighborhoods)
 - [Street Networks & Road Hierarchies](#street-networks--road-hierarchies)
-- [Terrain, Geography & Natural Features](#terrain-geography--natural-features)
-- [Data Sources & GIS](#data-sources--gis)
-- [Simulation & Procedural Generation Techniques](#simulation--procedural-generation-techniques)
+- [Transportation & Transit Networks](#transportation--transit-networks)
 - [City Layouts & Historical References](#city-layouts--historical-references)
+- [Simulation & Procedural Generation Techniques](#simulation--procedural-generation-techniques)
+- [Data Sources & GIS](#data-sources--gis)
 - [Visualization & Mapping Tools](#visualization--mapping-tools)
-- [Biomes](#Biomes)
 - [Academic Papers & Theory](#academic-papers--theory)
 - [Other Relevant Links](#other-relevant-links)
 - [Other Relevant GitHub Repos](#other-relevant-github-repos)
 
 ---
 
+## Biomes
+
+- [Holdridge Life Zones](https://en.wikipedia.org/wiki/Holdridge_life_zones)  
+- [Global Biomes](Images/GlobalBiomes.jpg)  
+- Example: [Biome Distribution Explained (YouTube)](https://youtu.be/o_AfNcjlOgU)
+
+---
+
+## Terrain, Geography & Natural Features
+
+- Use of elevation data (SRTM, DEM)
+- Rivers, coastlines, lakes, wetlands
+- Floodplains and elevation-sensitive zoning
+
+---
+
 ## Urban Planning
 
-- SmartCode: https://en.wikipedia.org/wiki/SmartCode  
+- [SmartCode](https://en.wikipedia.org/wiki/SmartCode) – Form-based zoning  
 - City zoning plans (e.g. Portland, Minneapolis, Charleston)
 - Urban growth boundaries
 - Comprehensive plans
@@ -44,17 +58,6 @@ Links for specific items will be added soon as well.
 - [Charleston Zoning Viewer](https://gis.charleston-sc.gov/interactive/zoning/)  
 - Mixed-use vs single-use zoning
 - Overlay zones and conditional overlays
-
----
-
-## Transportation & Transit Networks
-
-- Public transportation layouts (bus, metro, rail)
-- Road hierarchy: arterial, collector, local roads
-- Real-world traffic and transport datasets (GTFS, OSM)
-- [OpenRailwayMap](https://openrailwaymap.org)
-
-- [AnyRail](https://www.anyrail.com/): Software to plan and execute railway networks and simulations
 
 ---
 
@@ -76,17 +79,38 @@ Links for specific items will be added soon as well.
 
 ## Street Networks & Road Hierarchies
 
-- [OSMnx](https://arxiv.org/abs/1611.01890): Python tool to extract street networks  
+- [OSMnx](https://arxiv.org/abs/1611.01890) – Python tool to extract street networks  
 - Street grid patterns vs organic layouts
 - Cul-de-sacs, dead ends, superblocks
 
 ---
 
-## Terrain, Geography & Natural Features
+## Transportation & Transit Networks
 
-- Use of elevation data (SRTM, DEM)
-- Rivers, coastlines, lakes, wetlands
-- Floodplains and elevation-sensitive zoning
+- Public transportation layouts (bus, metro, rail)
+- Road hierarchy: arterial, collector, local roads
+- Real-world traffic and transport datasets (GTFS, OSM)
+- [OpenRailwayMap](https://openrailwaymap.org)
+- [AnyRail](https://www.anyrail.com/) – Rail network design
+- [OpenDrive](https://www.asam.net/standards/detail/opendrive/) – Standard for describing road networks
+- [RoadRunner](https://www.mathworks.com/products/roadrunner.html) – Road and scenario authoring tool for AV simulations
+
+---
+
+## City Layouts & Historical References
+
+- [Sanborn Maps](https://en.wikipedia.org/wiki/Sanborn_maps)  
+- Medieval towns vs colonial grids vs modernist planning
+- Urban renewal areas
+
+---
+
+## Simulation & Procedural Generation Techniques
+
+- Procedural building placement
+- Parcel splitting logic
+- Density simulation
+- Road network algorithms
 
 ---
 
@@ -102,23 +126,6 @@ Links for specific items will be added soon as well.
 
 ---
 
-## Simulation & Procedural Generation Techniques
-
-- Procedural building placement
-- Parcel splitting logic
-- Density simulation
-- Road network algorithms
-
----
-
-## City Layouts & Historical References
-
-- [Sanborn Maps](https://en.wikipedia.org/wiki/Sanborn_maps)  
-- Medieval towns vs colonial grids vs modernist planning
-- Urban renewal areas
-
----
-
 ## Visualization & Mapping Tools
 
 - [ArcGIS](https://www.arcgis.com/)
@@ -127,13 +134,8 @@ Links for specific items will be added soon as well.
 - Kepler.gl
 - BlenderGIS
 - Houdini heightfield and map import workflows
-
----
-
-## Biomes
-- [Holdridge Zones](https://en.wikipedia.org/wiki/Holdridge_life_zones)
-- [Global Biomes](Images/GlobalBiomes.jpg)
-  - https://youtu.be/o_AfNcjlOgU
+- [Cesium](https://cesium.com/)
+- [Cesium for Unreal](https://cesium.com/platform/cesium-for-unreal/)
 
 ---
 
@@ -151,6 +153,7 @@ Links for specific items will be added soon as well.
 - [Wikipedia: List of GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources) – Curated datasets for GIS-based city data  
 - [Wikipedia: SmartCode](https://en.wikipedia.org/wiki/SmartCode) – Form-based planning model  
 - [Wikipedia: OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) – Overview of OSM project  
+- [Investopedia: Zoning](https://www.investopedia.com/terms/z/zoning.asp) – Simple explanation of zoning types  
 
 ---
 
@@ -160,4 +163,3 @@ Links for specific items will be added soon as well.
 - **[kchapelier/procedural-generation](https://github.com/kchapelier/procedural-generation)** – Curated list of procedural generation links (JavaScript)  
 - **[hzxie/Awesome-3D-Scene-Generation](https://github.com/hzxie/Awesome-3D-Scene-Generation)** – Large collection of academic papers on 3D scene generation  
 - **[APA-Technology-Division/urban-and-regional-planning-resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)** – Curated planning tech and GIS tools  
-
