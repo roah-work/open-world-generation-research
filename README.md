@@ -135,6 +135,8 @@ Links for specific items will be added soon as well.
 - [Global Biomes](Images/GlobalBiomes.jpg)
   - https://youtu.be/o_AfNcjlOgU
 
+---
+
 ## Academic Papers & Theory
 
 - Urban morphology theory
