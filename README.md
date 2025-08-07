@@ -21,6 +21,7 @@ Links for specific items will be added soon as well.
 - [Simulation & Procedural Generation Techniques](#simulation--procedural-generation-techniques)
 - [City Layouts & Historical References](#city-layouts--historical-references)
 - [Visualization & Mapping Tools](#visualization--mapping-tools)
+- [Biomes](#Biomes)
 - [Academic Papers & Theory](#academic-papers--theory)
 - [Other Relevant Links](#other-relevant-links)
 - [Other Relevant GitHub Repos](#other-relevant-github-repos)
@@ -128,6 +129,11 @@ Links for specific items will be added soon as well.
 - Houdini heightfield and map import workflows
 
 ---
+
+## Biomes
+- [Holdridge Zones](https://en.wikipedia.org/wiki/Holdridge_life_zones)
+- [Global Biomes](Images/GlobalBiomes.jpg)
+  - https://youtu.be/o_AfNcjlOgU
 
 ## Academic Papers & Theory
 
