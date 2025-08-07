@@ -51,7 +51,7 @@ Links for specific items will be added soon as well.
 - Public transportation layouts (bus, metro, rail)
 - Road hierarchy: arterial, collector, local roads
 - Real-world traffic and transport datasets (GTFS, OSM)
-- [OpenRailwayMap] (https://openrailwaymap.org)
+- [OpenRailwayMap](https://openrailwaymap.org)
 
 ---
 
