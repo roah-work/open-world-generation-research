@@ -138,7 +138,6 @@ Links for specific items will be added soon as well.
 
 ## Other Relevant Links
 
-- [Investopedia: Zoning](https://www.investopedia.com/terms/z/zoning.asp) – Simple explanation of zoning types  
 - [Wikipedia: List of GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources) – Curated datasets for GIS-based city data  
 - [Wikipedia: SmartCode](https://en.wikipedia.org/wiki/SmartCode) – Form-based planning model  
 - [Wikipedia: OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) – Overview of OSM project  
