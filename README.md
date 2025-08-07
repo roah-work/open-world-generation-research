@@ -53,6 +53,8 @@ Links for specific items will be added soon as well.
 - Real-world traffic and transport datasets (GTFS, OSM)
 - [OpenRailwayMap](https://openrailwaymap.org)
 
+- [AnyRail](https://www.anyrail.com/): Software to plan and execute railway networks and simulations
+
 ---
 
 ## Architecture & Building Typologies
