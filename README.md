@@ -17,7 +17,8 @@ This is mostly a repository for personal reference and research. Will be updated
 - [Street Networks & Road Hierarchies](#street-networks--road-hierarchies)
 - [Transportation & Transit Networks](#transportation--transit-networks)
 - [City Layouts & Historical References](#city-layouts--historical-references)
-- [Simulation & Procedural Generation Techniques](#simulation--procedural-generation-techniques)
+- [Simulation](#simulation)
+- [DigitalTwin](#digital-twin)
 - [Data Sources & GIS](#data-sources--gis)
 - [Visualization & Mapping Tools](#visualization--mapping-tools)
 - [Academic Papers & Theory](#academic-papers--theory)
@@ -80,6 +81,8 @@ This is mostly a repository for personal reference and research. Will be updated
 ## Street Networks & Road Hierarchies
 
 - [OSMnx](https://arxiv.org/abs/1611.01890) – Python tool to extract street networks  
+- [RoadRunner](https://www.mathworks.com/products/roadrunner.html) - Proprietary/Paid
+- [TrueVision Designer](https://github.com/truevisionai/designer)
 - Street grid patterns vs organic layouts
 - Cul-de-sacs, dead ends, superblocks
 
@@ -105,14 +108,16 @@ This is mostly a repository for personal reference and research. Will be updated
 
 ---
 
-## Simulation & Procedural Generation Techniques
+## Simulation
 
-- Procedural building placement
-- Parcel splitting logic
-- Density simulation
-- Road network algorithms
+- [IsaacSim/IsaacLab](https://developer.nvidia.com/isaac/sim)
+- [CARLA](https://carla.org/)
 
 ---
+
+## DigitalTwin
+
+- [Adv Digital Twin - CARLA](https://carla.readthedocs.io/en/latest/adv_digital_twin/)
 
 ## Data Sources & GIS
 
