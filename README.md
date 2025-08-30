@@ -82,7 +82,7 @@ This is mostly a repository for personal reference and research. Will be updated
 
 - [OSMnx](https://arxiv.org/abs/1611.01890) – Python tool to extract street networks  
 - [RoadRunner](https://www.mathworks.com/products/roadrunner.html) - Proprietary/Paid
-- [TrueVision Designer](https://github.com/truevisionai/designer)
+- [TrueVision Designer](https://github.com/truevisionai/designer) - Requires signup/Account Creation
 - Street grid patterns vs organic layouts
 - Cul-de-sacs, dead ends, superblocks
 
